@@ -1,3 +1,1 @@
-# test
-
-from bash
+# test from bash
